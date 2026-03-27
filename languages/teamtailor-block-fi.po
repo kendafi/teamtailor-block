@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Teamtailor Block\n"
+"POT-Creation-Date: 2026-03-27 20:30+0200\n"
+"PO-Revision-Date: 2026-03-27 20:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: teamtailor-block.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: teamtailor-block.php:27
+msgid "Some options depends on your Teamtailor account settings."
+msgstr "Jotkut vaihtoehdot riippuvat Teamtailor-tilisi asetuksista."
+
+#: teamtailor-block.php:28
+msgid ""
+"These options are excluded if you limit jobs within a specific department "
+"and/or location in Teamtailor."
+msgstr ""
+"Nämä vaihtoehdot eivät ole käytettävissä, jos rajoitat työpaikkoja tietyllä "
+"osastolla ja/tai sijainnilla Teamtailorissa."
+
+#: teamtailor-block.php:29
+msgid ""
+"This option will only be available if you are using Teamtailor multilingual "
+"feature."
+msgstr ""
+"Kielivalinta voi näkyä vain jos Teamtailorin monikielisyys on käytössä."
+
+#: teamtailor-block.php:30
+msgid ""
+"When pagination is enabled, the number of jobs setting determines how many "
+"are displayed per page."
+msgstr ""
+"Kun sivutus on päällä, niin määrä-asetus määrittää kuinka monta ilmoitusta "
+"näytetään per sivu."
+
+#: teamtailor-block.php:34
+msgid "Teamtailor API key (required)"
+msgstr "Teamtailor API -avain (pakollinen)"
+
+#: teamtailor-block.php:39
+msgid "Job feed"
+msgstr "Työpaikkasyöte"
+
+#: teamtailor-block.php:45
+msgid "Number of jobs"
+msgstr "Työpaikkojen määrä"
+
+#: teamtailor-block.php:51
+msgid "Department select ¹"
+msgstr "Näytä osastovalinta ¹"
+
+#: teamtailor-block.php:56
+msgid "Role select"
+msgstr "Näytä roolivalinta"
+
+#: teamtailor-block.php:61
+msgid "Region select"
+msgstr "Näytä aluevalinta"
+
+#: teamtailor-block.php:66
+msgid "Location select ¹"
+msgstr "Näytä sijaintivalinta ¹"
+
+#: teamtailor-block.php:71
+msgid "Language select ²"
+msgstr "Näytä kielivalinta ²"
+
+#: teamtailor-block.php:76
+msgid "Remote status select"
+msgstr "Näytä etätyövalinta"
+
+#: teamtailor-block.php:81
+msgid "Open links in new tab"
+msgstr "Avaa linkit uudessa ikkunassa"
+
+#: teamtailor-block.php:86
+msgid "Pagination ³"
+msgstr "Käytä sivutusta ³"
+
+#: teamtailor-block.php:95
+msgid "Teamtailor"
+msgstr "Teamtailor"
+
+#: teamtailor-block.php:158 teamtailor-block.php:164
+msgid "Teamtailor API key is missing."
+msgstr "Teamtailor API -avain puuttuu."
+
+#. Plugin Name of the plugin/theme
+msgid "Teamtailor Block"
+msgstr "Teamtailor-lohko"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/kendafi/teamtailor-block"
+msgstr "https://github.com/kendafi/teamtailor-block"
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin that enables a custom Gutenberg block that adds a Teamtailor widget "
+"displaying job listings in any page or post."
+msgstr ""
+"Lisäosa, joka mahdollistaa Gutenberg-lohkon, joka lisää Teamtailor-widgetin "
+"näyttämään työpaikkailmoituksia millä tahansa sivulla tai artikkelissa."
+
+#. Author of the plugin/theme
+msgid "Kenda"
+msgstr "Kenda"
+
+#. Author URI of the plugin/theme
+msgid "https://kenda.fi/"
+msgstr "https://kenda.fi/"
