@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Teamtailor Block\n"
-"POT-Creation-Date: 2026-03-27 20:30+0200\n"
-"PO-Revision-Date: 2026-03-27 20:35+0200\n"
+"POT-Creation-Date: 2026-04-03 01:44+0300\n"
+"PO-Revision-Date: 2026-04-03 01:47+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: fi\n"
@@ -52,11 +52,11 @@ msgstr ""
 msgid "Teamtailor API key (required)"
 msgstr "Teamtailor API -avain (pakollinen)"
 
-#: teamtailor-block.php:39
+#: teamtailor-block.php:39 teamtailor-block.php:182
 msgid "Job feed"
 msgstr "Työpaikkasyöte"
 
-#: teamtailor-block.php:45
+#: teamtailor-block.php:45 teamtailor-block.php:183
 msgid "Number of jobs"
 msgstr "Työpaikkojen määrä"
 
@@ -64,11 +64,11 @@ msgstr "Työpaikkojen määrä"
 msgid "Department select ¹"
 msgstr "Näytä osastovalinta ¹"
 
-#: teamtailor-block.php:56
+#: teamtailor-block.php:56 teamtailor-block.php:185
 msgid "Role select"
 msgstr "Näytä roolivalinta"
 
-#: teamtailor-block.php:61
+#: teamtailor-block.php:61 teamtailor-block.php:186
 msgid "Region select"
 msgstr "Näytä aluevalinta"
 
@@ -80,11 +80,11 @@ msgstr "Näytä sijaintivalinta ¹"
 msgid "Language select ²"
 msgstr "Näytä kielivalinta ²"
 
-#: teamtailor-block.php:76
+#: teamtailor-block.php:76 teamtailor-block.php:189
 msgid "Remote status select"
 msgstr "Näytä etätyövalinta"
 
-#: teamtailor-block.php:81
+#: teamtailor-block.php:81 teamtailor-block.php:190
 msgid "Open links in new tab"
 msgstr "Avaa linkit uudessa ikkunassa"
 
@@ -99,6 +99,42 @@ msgstr "Teamtailor"
 #: teamtailor-block.php:158 teamtailor-block.php:164
 msgid "Teamtailor API key is missing."
 msgstr "Teamtailor API -avain puuttuu."
+
+#: teamtailor-block.php:175
+msgid "enabled"
+msgstr "kytketty päälle"
+
+#: teamtailor-block.php:178
+msgid "Teamtailor Jobs Widget placeholder"
+msgstr "Teamtailor työpaikkalistaus"
+
+#: teamtailor-block.php:179
+msgid "We avoid loading external scripts here in admin."
+msgstr "Vältämme ulkoisten skriptien lataamista täällä muokkauspuolella."
+
+#: teamtailor-block.php:180
+msgid "Job listings will appear on the frontend."
+msgstr "Työpaikkailmoitukset näkyvät sivuston vierailijoille."
+
+#: teamtailor-block.php:181
+msgid "Please save and preview this page."
+msgstr "Tallenna ja esikatsatsele tätä sivua."
+
+#: teamtailor-block.php:184
+msgid "Department select"
+msgstr "Näytä osastovalinta"
+
+#: teamtailor-block.php:187
+msgid "Location select"
+msgstr "Näytä sijaintivalinta"
+
+#: teamtailor-block.php:188
+msgid "Language select"
+msgstr "Näytä kielivalinta"
+
+#: teamtailor-block.php:191
+msgid "Pagination"
+msgstr "Käytä sivutusta"
 
 #. Plugin Name of the plugin/theme
 msgid "Teamtailor Block"
