@@ -1,7 +1,7 @@
 # Teamtailor Block
 
 This is a WordPress plugin that enables a custom Gutenberg block
-that adds a Teamtailor widget displaying job listings in any page or post.
+to add a Teamtailor widget displaying job listings in any page or post.
 
 It generates the same HTML as the Teamtailor widget code described in their
 [documentation](https://support.teamtailor.com/en/articles/129677-integrate-a-job-list-widget),
@@ -16,7 +16,7 @@ Please select `EU Region`, and set the permissions `Public`, and type `Read`. Se
 
 The block is registered using the
 [PHP-only block registration method](https://make.wordpress.org/core/2026/03/03/php-only-block-registration/)
-introduced in WordPress 7.0 released on 9th of April 2026.
+introduced in WordPress 7.0 released on 20 May 2026.
 That or newer version of WordPress is required for this plugin to work.
 
 If you have a Content Security Policy (CSP) restricting from where content can be loaded,
